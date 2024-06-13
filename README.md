@@ -1,3 +1,26 @@
+## class_loader (jazzy) - 2.7.0-4
+
+The packages in the `class_loader` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy class_loader --override-release-repository-push-url git@github.com:revyos-ros/class_loader-release.git` on `Thu, 13 Jun 2024 01:07:05 -0000`
+
+The `class_loader` package was released.
+
+Version of package(s) in repository `class_loader`:
+
+- upstream repository: https://github.com/ros/class_loader.git
+- release repository: https://github.com/revyos-ros/class_loader-release.git
+- rosdistro version: `2.7.0-3`
+- old version: `2.7.0-3`
+- new version: `2.7.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## class_loader (rolling) - 2.8.0-1
 
 The packages in the `class_loader` repository were released into the `rolling` distro by running `/usr/bin/bloom-release class_loader --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 14:30:51 -0000`
