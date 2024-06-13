@@ -2,9 +2,6 @@
 Changelog for package class_loader
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.8.0 (2024-04-26)
-------------------
-
 2.7.0 (2023-12-26)
 ------------------
 * Remove all uses of ament_target_dependencies. (`#210 <https://github.com/ros/class_loader/issues/210>`_)
